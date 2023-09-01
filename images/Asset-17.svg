@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20.15 13.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="10.07" y1="10.95" x2="10.07" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#000"/>
+      <stop offset="1" stop-color="#504e55"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="10.07" y1="13.25" x2="10.07" y2="11.67" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="10.07" y1="9.39" x2="10.07" y2="2.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a00000"/>
+      <stop offset="1" stop-color="#d20000"/>
+    </linearGradient>
+  </defs>
+  <g id="Capa_1" data-name="Capa 1">
+    <g id="computer">
+      <g id="computer-2" data-name="computer">
+        <g>
+          <path class="cls-1" d="m17.87,0H2.27c-.61,0-1.1.49-1.1,1.1v8.74c0,.61.49,1.1,1.1,1.1h15.6c.61,0,1.1-.49,1.1-1.1V1.1c0-.61-.49-1.1-1.1-1.1Zm.21,9.41c0,.55-.44.99-.99.99H3.05c-.54,0-.99-.44-.99-.99V1.54c0-.55.45-.99.99-.99h14.04c.55,0,.99.44.99.99v7.87Z"/>
+          <path class="cls-3" d="m19.36,11.67H.79c-.44,0-.79.35-.79.79s.35.79.79.79h18.57c.43,0,.79-.35.79-.79s-.35-.79-.79-.79Zm-8.07.79h-2.44c-.12,0-.21-.1-.21-.21s.1-.21.21-.21h2.44c.12,0,.21.1.21.21s-.09.21-.21.21Z"/>
+          <path class="cls-2" d="m17.5,2.21c-.14-.13-.36-.13-.49,0l-2.71,2.86-1.25-1.26c-.12-.12-.28-.19-.41-.18-.12,0-.24.05-.31.15l-2.09,3.07-1.55-1.58c-.07-.07-.16-.1-.26-.1-.07,0-.14.01-.2.05l-5.55,3.5c-.16.1-.21.32-.11.48.1.16.32.21.48.11l5.32-3.36,1.45,1.48s.08.06.13.08c.03.07.07.12.13.17.16.11.38.06.48-.1l2.13-3.13,1.24,1.25c.07.07.16.13.25.15.04.02.09.03.14.02.07,0,.13-.02.18-.06,0,0,.01,0,.02-.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.02-.02.03-.02l2.93-3.09c.13-.14.13-.36-.01-.49Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
